@@ -9,9 +9,9 @@
 
 - 🌱 We are currently Expanding Membership **Bringing in students from all branches who love data & tech.**
 
-- 👯 We are looking to collaborate on [Academic partners](Industry partners)
+- 👯 We are looking to collaborate on Academic partners , Industry partners .
 
-- 🤝 We are looking for help with [Open Source Contributions](Hackathon & Event Sponsorship)
+- 🤝 We are looking for help with Open Source Contributions , Hackathon & Event Sponsorship .
 
 - 💬 Ask us about **Data Science & Analytics, Machine Learning & AI, Python Programming, Big Data & Cloud, Competitions & Hackathons, Open Source Projects, Events & Workshops**
 
