@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, Dzypher is the official Data Science Association of STIST.</h1>
+<h1 align="center">👾 Yo, welcome to Dzypher!
+Where algorithms meet creativity and data talks louder than words.</h1>
 <h3 align="center">We are a community of curious minds, innovators, and problem-solvers who believe in the power of data-driven thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzypher-stist&label=Profile%20views&color=0e75b6&style=flat" alt="dzypher-stist" /> </p>
