@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzypher-stist" alt="dzypher-stist" /></a> </p>
 
-- 🔭 We are currently working on [Workshops & Bootcamps](Guest Lectures & Tech Tal)
+- 🔭 We are currently working on , Workshops & Bootcamps , Guest Lectures & Tech Tal .
 
 - 🌱 We are currently Expanding Membership **Bringing in students from all branches who love data & tech.**
 
