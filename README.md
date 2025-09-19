@@ -20,7 +20,7 @@ Where algorithms meet creativity and data talks louder than words.</h1>
 
 - ⚡ Fun fact **Did you know? 🤔 The name “Dzypher” comes from the word “Cipher”, which means code or secret. Just like data hides patterns and secrets, we at Dzypher love to decode and discover meaning from data! 🔍**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://instagram.com/dzypher.stist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dzypher.stist" height="30" width="40" /></a>
 </p>
